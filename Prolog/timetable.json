@@ -1,0 +1,102 @@
+[
+  {
+    "course_id": "cs101",
+    "course_name": "Computer Science 101",
+    "teacher": "Dr. Smith",
+    "day": "tuesday",
+    "start_time": 1400,
+    "end_time": 1600,
+    "room_id": "r001",
+    "room_type": "computer_lab"
+  },
+  {
+    "course_id": "cs102",
+    "course_name": "Data Structures",
+    "teacher": "Prof. Johnson",
+    "day": "tuesday",
+    "start_time": 1400,
+    "end_time": 1600,
+    "room_id": "r002",
+    "room_type": "computer_lab"
+  },
+  {
+    "course_id": "math101",
+    "course_name": "Calculus I",
+    "teacher": "Dr. Brown",
+    "day": "monday",
+    "start_time": 800,
+    "end_time": 900,
+    "room_id": "r003",
+    "room_type": "classroom"
+  },
+  {
+    "course_id": "math102",
+    "course_name": "Linear Algebra",
+    "teacher": "Prof. Davis",
+    "day": "tuesday",
+    "start_time": 1400,
+    "end_time": 1600,
+    "room_id": "r003",
+    "room_type": "classroom"
+  },
+  {
+    "course_id": "phy101",
+    "course_name": "Physics I",
+    "teacher": "Dr. Wilson",
+    "day": "tuesday",
+    "start_time": 1400,
+    "end_time": 1600,
+    "room_id": "r006",
+    "room_type": "physics_lab"
+  },
+  {
+    "course_id": "eng101",
+    "course_name": "English Literature",
+    "teacher": "Prof. Miller",
+    "day": "monday",
+    "start_time": 800,
+    "end_time": 900,
+    "room_id": "r004",
+    "room_type": "classroom"
+  },
+  {
+    "course_id": "chem101",
+    "course_name": "Chemistry I",
+    "teacher": "Dr. Garcia",
+    "day": "tuesday",
+    "start_time": 1400,
+    "end_time": 1600,
+    "room_id": "r007",
+    "room_type": "chemistry_lab"
+  },
+  {
+    "course_id": "hist101",
+    "course_name": "World History",
+    "teacher": "Prof. Martinez",
+    "day": "monday",
+    "start_time": 800,
+    "end_time": 900,
+    "room_id": "r005",
+    "room_type": "classroom"
+  },
+  {
+    "course_id": "bio101",
+    "course_name": "Biology I",
+    "teacher": "Dr. Anderson",
+    "day": "tuesday",
+    "start_time": 1400,
+    "end_time": 1600,
+    "room_id": "r008",
+    "room_type": "biology_lab"
+  },
+  {
+    "course_id": "stat101",
+    "course_name": "Statistics",
+    "teacher": "Prof. Taylor",
+    "day": "monday",
+    "start_time": 800,
+    "end_time": 900,
+    "room_id": "r009",
+    "room_type": "classroom"
+  }
+]
